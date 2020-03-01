@@ -1,6 +1,6 @@
 {
   "name": "browser-redirect",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "RISK: This is a malicious example.",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/UlisesGascon/browser-redirect/issues"
   },
-  "homepage": "https://github.com/UlisesGascon/browser-redirect#readme"
+  "homepage": "https://github.com/UlisesGascon/browser-redirect#readme",
+  "dependencies": {
+    "useragent": "2.3.0"
+  }
 }
