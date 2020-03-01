@@ -1,0 +1,19 @@
+{
+  "name": "browser-redirect",
+  "version": "1.0.0",
+  "description": "RISK: This is a malicious example.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UlisesGascon/browser-redirect.git"
+  },
+  "author": "Ulises Gascon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/UlisesGascon/browser-redirect/issues"
+  },
+  "homepage": "https://github.com/UlisesGascon/browser-redirect#readme"
+}
