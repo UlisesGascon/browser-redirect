@@ -1,7 +1,7 @@
 {
   "name": "browser-redirect",
-  "version": "1.0.1",
-  "description": "RISK: This is a malicious example.",
+  "version": "1.0.2",
+  "description": "RISK: This is a malicious example. https://snyk.io/blog/what-is-a-backdoor",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
